@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-php2shell — PHP >= 5.4.0 RCE by Calif.io  (styled remote exp for lab testing)
+php2shell — PHP RCE by 青山  (styled remote exp for lab testing)
 
 Screenshot-style CLI around the real remote chain in ../php8_remote.py:
   R-1 heap leak          -> LEAKED block (main_heap / stale_reference / ...)
