@@ -27,7 +27,7 @@ import urllib.request
 from datetime import datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-CHAIN = os.path.normpath(os.path.join(HERE, '..', 'php8_remote.py'))
+CHAIN = os.path.normpath(os.path.join(HERE, 'php8_remote.py'))
 import types
 
 
